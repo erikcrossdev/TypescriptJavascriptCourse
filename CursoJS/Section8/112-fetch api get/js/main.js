@@ -30,3 +30,5 @@ function carregaResultado(response){
     resultado.innerHTML = response; //adiciona o conteúdo da resposta na div resultado
     console.log(response); // Exibe a resposta no console
 }
+
+
